@@ -1,0 +1,1 @@
+señales de clase pausa 
