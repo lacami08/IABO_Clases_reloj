@@ -1,0 +1,1 @@
+Señales clase apagar
